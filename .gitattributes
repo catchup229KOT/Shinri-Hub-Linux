@@ -1,0 +1,2 @@
+shinri-hub-installer.sh filter=lfs diff=lfs merge=lfs -text
+shinri-hub-installer-FreeBSD.sh filter=lfs diff=lfs merge=lfs -text
